@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 13 Oct 2021 17:57:35 GMT
-# entries:        3676
+# last updated:   Tue, 19 Oct 2021 15:56:45 GMT
+# entries:        3673
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 19 Oct 2001 00:00:00
+# start date:    Sun, 28 Oct 2001 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -799,7 +799,6 @@
 0.0.0.0 adserver.diariodosertao.com.br
 0.0.0.0 adserver.digitoday.com
 0.0.0.0 adserver.echdk.pl
-0.0.0.0 adserver.ekokatu.com
 0.0.0.0 adserver.friendfinder.com
 0.0.0.0 adserver.generationiron.com
 0.0.0.0 adserver.gilligan.tech
@@ -1053,7 +1052,6 @@
 0.0.0.0 analytics.mailmunch.co
 0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 analytics.myfinance.com
-0.0.0.0 analytics.mytvzion.pro
 0.0.0.0 analytics.ostr.io
 0.0.0.0 analytics.phando.com
 0.0.0.0 analytics.picsart.com
@@ -1396,6 +1394,7 @@
 0.0.0.0 checkm8.com
 0.0.0.0 checkstat.nl
 0.0.0.0 cheerfulrange.com
+0.0.0.0 cherriescare.com
 0.0.0.0 chewcoat.com
 0.0.0.0 chickensstation.com
 0.0.0.0 chinsnakes.com
@@ -1562,12 +1561,10 @@
 0.0.0.0 crawlclocks.com
 0.0.0.0 crazyegg.com
 0.0.0.0 crazypopups.com
-0.0.0.0 creafi-online-media.com
 0.0.0.0 creatives.livejasmin.com
 0.0.0.0 criteo.com
 0.0.0.0 criteo.net
 0.0.0.0 critictruck.com
-0.0.0.0 croissed.info
 0.0.0.0 crowdgravity.com
 0.0.0.0 crsspxl.com
 0.0.0.0 crta.dailymail.co.uk
@@ -2004,7 +2001,6 @@
 0.0.0.0 hotjar.com
 0.0.0.0 hotkeys.com
 0.0.0.0 hotlog.ru
-0.0.0.0 hotrank.com.tw
 0.0.0.0 hoverowl.com
 0.0.0.0 hs-analytics.net
 0.0.0.0 hs-banner.com
@@ -2216,6 +2212,7 @@
 0.0.0.0 lightcast.leadscoringcenter.com
 0.0.0.0 lightcushion.com
 0.0.0.0 lightspeedcash.com
+0.0.0.0 lightstep.medium.systems
 0.0.0.0 lijit.com
 0.0.0.0 link-booster.de
 0.0.0.0 link4ads.com
@@ -2263,7 +2260,6 @@
 0.0.0.0 loudlunch.com
 0.0.0.0 lp3tdqle.com
 0.0.0.0 lucidmedia.com
-0.0.0.0 lucklayed.info
 0.0.0.0 luckyorange.com
 0.0.0.0 lytics.io
 0.0.0.0 lzjl.com
@@ -2382,6 +2378,7 @@
 0.0.0.0 mktoresp.com
 0.0.0.0 ml314.com
 0.0.0.0 mlm.de
+0.0.0.0 mlsend.com
 0.0.0.0 mltrk.io
 0.0.0.0 mmismm.com
 0.0.0.0 mmstat.com
@@ -2971,7 +2968,6 @@
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 sedoparking.com
 0.0.0.0 sedotracker.com
-0.0.0.0 segmetrics.io
 0.0.0.0 selectivesummer.com
 0.0.0.0 semasio.net
 0.0.0.0 sendmepixel.com
@@ -3310,7 +3306,6 @@
 0.0.0.0 top100.mafia.ru
 0.0.0.0 top123.ro
 0.0.0.0 top20free.com
-0.0.0.0 top90.ro
 0.0.0.0 topbucks.com
 0.0.0.0 topforall.com
 0.0.0.0 topgamesites.net
@@ -3339,6 +3334,7 @@
 0.0.0.0 track.game18click.com
 0.0.0.0 track.hexcan.com
 0.0.0.0 track.mailerlite.com
+0.0.0.0 track.segmetrics.io
 0.0.0.0 track.software-codes.com
 0.0.0.0 track.themaccleanup.info
 0.0.0.0 track.tkbo.com
@@ -3374,6 +3370,7 @@
 0.0.0.0 tracking.jiffyworld.com
 0.0.0.0 tracking.markethero.io
 0.0.0.0 tracking.miui.com
+0.0.0.0 tracking.netalerts.io
 0.0.0.0 tracking.olx-st.com
 0.0.0.0 tracking.orixa-media.com
 0.0.0.0 tracking.publicidees.com
