@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 27 Nov 2021 16:47:40 GMT
-# entries:        3697
+# last updated:   Tue, 07 Dec 2021 13:54:21 GMT
+# entries:        3687
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 05 Dec 2001 00:00:00
+# start date:    Mon, 17 Dec 2001 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -50,7 +50,6 @@
 0.0.0.0 82o9v830.com
 0.0.0.0 a-ads.com
 0.0.0.0 a.aproductmsg.com
-0.0.0.0 a.consumer.net
 0.0.0.0 a.klaviyo.com
 0.0.0.0 a.mktw.net
 0.0.0.0 a.muloqot.uz
@@ -193,7 +192,6 @@
 0.0.0.0 ad0.bigmir.net
 0.0.0.0 ad01.mediacorpsingapore.com
 0.0.0.0 ad1.emule-project.org
-0.0.0.0 ad1.eventmanager.co.kr
 0.0.0.0 ad1.kde.cz
 0.0.0.0 ad1.pamedia.com.au
 0.0.0.0 ad2.iinfo.cz
@@ -587,7 +585,6 @@
 0.0.0.0 ads.mvscoelho.com
 0.0.0.0 ads.myadv.org
 0.0.0.0 ads.nccwebs.com
-0.0.0.0 ads.ncm.com
 0.0.0.0 ads.ndtv1.com
 0.0.0.0 ads.networksolutions.com
 0.0.0.0 ads.newgrounds.com
@@ -637,7 +634,6 @@
 0.0.0.0 ads.quoka.de
 0.0.0.0 ads.radialserver.com
 0.0.0.0 ads.radio1.lv
-0.0.0.0 ads.rcncdn.de
 0.0.0.0 ads.rcs.it
 0.0.0.0 ads.recoletos.es
 0.0.0.0 ads.rediff.com
@@ -801,7 +797,6 @@
 0.0.0.0 adserver.echdk.pl
 0.0.0.0 adserver.friendfinder.com
 0.0.0.0 adserver.generationiron.com
-0.0.0.0 adserver.gilligan.tech
 0.0.0.0 adserver.html.it
 0.0.0.0 adserver.hwupgrade.it
 0.0.0.0 adserver.ilango.de
@@ -1417,6 +1412,7 @@
 0.0.0.0 click.email.bbc.com
 0.0.0.0 click.email.sonos.com
 0.0.0.0 click.fool.com
+0.0.0.0 click.hookupinyourcity.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click.negociosdigitaisnapratica.com.br
 0.0.0.0 click.redditmail.com
@@ -1684,7 +1680,6 @@
 0.0.0.0 dsp.io
 0.0.0.0 dstillery.com
 0.0.0.0 dyntrk.com
-0.0.0.0 e-adimages.scrippsnetworks.com
 0.0.0.0 e-m.fr
 0.0.0.0 e-planning.net
 0.0.0.0 e.kde.cz
@@ -1716,8 +1711,9 @@
 0.0.0.0 elephantqueue.com
 0.0.0.0 elitedollars.com
 0.0.0.0 elitetoplist.com
-0.0.0.0 elthamely.com
 0.0.0.0 em1.yoursantander.co.uk
+0.0.0.0 email-clk.adguard.com
+0.0.0.0 email-opn.adguard.com
 0.0.0.0 emanog.com
 0.0.0.0 emebo.com
 0.0.0.0 emebo.io
@@ -1826,7 +1822,6 @@
 0.0.0.0 ffxcam.fairfax.com.au
 0.0.0.0 fimserve.com
 0.0.0.0 findcommerce.com
-0.0.0.0 findepended.com
 0.0.0.0 findyourcasino.com
 0.0.0.0 fineoffer.net
 0.0.0.0 fingahvf.top
@@ -1914,6 +1909,7 @@
 0.0.0.0 getclicky.com
 0.0.0.0 getintent.com
 0.0.0.0 getmyads.com
+0.0.0.0 gfcim5.gq
 0.0.0.0 giddycoat.com
 0.0.0.0 globalismedia.com
 0.0.0.0 globaltakeoff.net
@@ -1940,7 +1936,6 @@
 0.0.0.0 gothamads.com
 0.0.0.0 gotraffic.net
 0.0.0.0 gp.dejanews.com
-0.0.0.0 gpm.samsungqbe.com
 0.0.0.0 gracefulsock.com
 0.0.0.0 graizoah.com
 0.0.0.0 grandioseguide.com
@@ -2308,7 +2303,6 @@
 0.0.0.0 marinsm.com
 0.0.0.0 markedcrayon.com
 0.0.0.0 markedpail.com
-0.0.0.0 market-buster.com
 0.0.0.0 marketing.888.com
 0.0.0.0 marketing.hearstmagazines.nl
 0.0.0.0 marketing.net.brillen.de
@@ -2604,7 +2598,6 @@
 0.0.0.0 outbrain.com
 0.0.0.0 overconfidentfood.com
 0.0.0.0 overture.com
-0.0.0.0 owebanalytics.com
 0.0.0.0 owebmoney.ru
 0.0.0.0 owlsr.us
 0.0.0.0 owneriq.net
@@ -2911,10 +2904,8 @@
 0.0.0.0 rhombusads.com
 0.0.0.0 rhythmone.com
 0.0.0.0 richmails.com
-0.0.0.0 richmedia.yimg.com
 0.0.0.0 richstring.com
 0.0.0.0 rightstats.com
-0.0.0.0 rinconpx.net
 0.0.0.0 ringsrecord.com
 0.0.0.0 ritzykey.com
 0.0.0.0 rlcdn.com
@@ -3113,7 +3104,6 @@
 0.0.0.0 sponsorpro.de
 0.0.0.0 sponsors.thoughtsmedia.com
 0.0.0.0 spookysleet.com
-0.0.0.0 sportsad.net
 0.0.0.0 spot.fitness.com
 0.0.0.0 spotlessstamp.com
 0.0.0.0 spotscenered.info
@@ -3140,7 +3130,6 @@
 0.0.0.0 stalesummer.com
 0.0.0.0 standingnest.com
 0.0.0.0 starffa.com
-0.0.0.0 start.freeze.com
 0.0.0.0 startapp.com
 0.0.0.0 stat-track.com
 0.0.0.0 stat.cliche.se
@@ -3233,6 +3222,7 @@
 0.0.0.0 t.firstpromoter.com
 0.0.0.0 t.insigit.com
 0.0.0.0 t.irtyd.com
+0.0.0.0 t.news.browns-restaurants.co.uk
 0.0.0.0 t.salesmatemail.com
 0.0.0.0 taboola.com
 0.0.0.0 tag.links-analytics.com
@@ -3338,6 +3328,7 @@
 0.0.0.0 toplist.cz
 0.0.0.0 toplist.pornhost.com
 0.0.0.0 toplista.mw.hu
+0.0.0.0 toplistcity.com
 0.0.0.0 topping.com.ua
 0.0.0.0 toprebates.com
 0.0.0.0 topsir.com
@@ -3434,7 +3425,6 @@
 0.0.0.0 travis.bosscasinos.com
 0.0.0.0 trck.a8.net
 0.0.0.0 trcked.me
-0.0.0.0 trcking4wdm.de
 0.0.0.0 trcklion.com
 0.0.0.0 treasuredata.com
 0.0.0.0 trekdata.com
@@ -3570,7 +3560,6 @@
 0.0.0.0 warmafterthought.com
 0.0.0.0 waryfog.com
 0.0.0.0 wateryvan.com
-0.0.0.0 wd-track.de
 0.0.0.0 wdads.sx.atl.publicus.com
 0.0.0.0 wdfl.co
 0.0.0.0 wearbasin.com
@@ -3692,6 +3681,7 @@
 0.0.0.0 zantracker.com
 0.0.0.0 zarget.com
 0.0.0.0 zbwp6ghm.com
+0.0.0.0 zdbb.net
 0.0.0.0 zealousfield.com
 0.0.0.0 zedo.com
 0.0.0.0 zemanta.com
