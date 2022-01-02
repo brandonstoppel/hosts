@@ -3448,9 +3448,6 @@
 127.0.0.1 vz-cdn.contentabc.com
 127.0.0.1 vz-cdn2.contentabc.com
 
-# [contentful.com]
-127.0.0.1 graphql.contentful.com
-
 # [contentsquare.net]
 127.0.0.1 contentsquare.net
 127.0.0.1 t.contentsquare.net
@@ -8344,6 +8341,7 @@
 
 # [pangle.io]
 127.0.0.1 pangle.io
+127.0.0.1 api16-access-gcp.pangle.io
 127.0.0.1 api16-access-sg.pangle.io
 
 # [panickycurtain.com]
@@ -11721,6 +11719,9 @@
 
 # [wigetmedia.com]
 127.0.0.1 wigetmedia.com
+
+# [wikawika.xyz]
+127.0.0.1 ad-display.wikawika.xyz
 
 # [wildlifestudios.com]
 127.0.0.1 cads.wildlifestudios.com
