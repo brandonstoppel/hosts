@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 29 Dec 2021 13:27:43 GMT
-# entries:        3681
+# last updated:   Thu, 06 Jan 2022 10:36:23 GMT
+# entries:        3685
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 04 Jan 2002 00:00:00
+# start date:    Sat, 12 Jan 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -182,6 +182,7 @@
 0.0.0.0 ad0.bigmir.net
 0.0.0.0 ad01.mediacorpsingapore.com
 0.0.0.0 ad1.emule-project.org
+0.0.0.0 ad1.eventmanager.co.kr
 0.0.0.0 ad1.kde.cz
 0.0.0.0 ad1.pamedia.com.au
 0.0.0.0 ad2.iinfo.cz
@@ -780,6 +781,7 @@
 0.0.0.0 adserver.echdk.pl
 0.0.0.0 adserver.friendfinder.com
 0.0.0.0 adserver.generationiron.com
+0.0.0.0 adserver.gilligan.tech
 0.0.0.0 adserver.html.it
 0.0.0.0 adserver.hwupgrade.it
 0.0.0.0 adserver.ilango.de
@@ -1392,6 +1394,7 @@
 0.0.0.0 click.bkdpt.com
 0.0.0.0 click.cartsguru.io
 0.0.0.0 click.cision.com
+0.0.0.0 click.em.blizzard.com
 0.0.0.0 click.email.bbc.com
 0.0.0.0 click.email.sonos.com
 0.0.0.0 click.fool.com
@@ -1799,7 +1802,6 @@
 0.0.0.0 faultycanvas.com
 0.0.0.0 faultyfowl.com
 0.0.0.0 fave.co
-0.0.0.0 fc.webmasterpro.de
 0.0.0.0 feathr.co
 0.0.0.0 feebleshock.com
 0.0.0.0 feedbackresearch.com
@@ -1834,6 +1836,7 @@
 0.0.0.0 foresee.com
 0.0.0.0 forex-affiliate.net
 0.0.0.0 forkcdn.com
+0.0.0.0 forwrdnow.com
 0.0.0.0 fourarithmetic.com
 0.0.0.0 fpctraffic.com
 0.0.0.0 fpctraffic2.com
@@ -2286,6 +2289,7 @@
 0.0.0.0 marinsm.com
 0.0.0.0 markedcrayon.com
 0.0.0.0 markedpail.com
+0.0.0.0 market-buster.com
 0.0.0.0 marketing.888.com
 0.0.0.0 marketing.hearstmagazines.nl
 0.0.0.0 marketing.net.brillen.de
@@ -2655,7 +2659,6 @@
 0.0.0.0 pietexture.com
 0.0.0.0 pilotaffiliate.com
 0.0.0.0 pimproll.com
-0.0.0.0 ping.hashnode.com
 0.0.0.0 ping.ublock.org
 0.0.0.0 pipedream.wistia.com
 0.0.0.0 pippio.com
@@ -2677,7 +2680,6 @@
 0.0.0.0 plista.com
 0.0.0.0 plotrabbit.com
 0.0.0.0 ployea.com
-0.0.0.0 ploz.mangadex.org
 0.0.0.0 pltraffic8.com
 0.0.0.0 pluckypocket.com
 0.0.0.0 plugrush.com
@@ -2741,6 +2743,7 @@
 0.0.0.0 protectsubrev.com
 0.0.0.0 proton-tm.com
 0.0.0.0 protraffic.com
+0.0.0.0 provenpixel.com
 0.0.0.0 provexia.com
 0.0.0.0 prsaln.com
 0.0.0.0 prsitecheck.com
@@ -2828,7 +2831,6 @@
 0.0.0.0 rate.ru
 0.0.0.0 ratings.lycos.com
 0.0.0.0 rayjump.com
-0.0.0.0 re-directme.com
 0.0.0.0 reachjunction.com
 0.0.0.0 reactx.com
 0.0.0.0 readgoldfish.com
@@ -3072,6 +3074,7 @@
 0.0.0.0 somniture.stuff.co.nz
 0.0.0.0 somoaudience.com
 0.0.0.0 sonobi.com
+0.0.0.0 sordidsmile.com
 0.0.0.0 sortable.com
 0.0.0.0 sourcepoint.vice.com
 0.0.0.0 sovrn.com
@@ -3373,6 +3376,7 @@
 0.0.0.0 tracking.5-47737-bi.co.uk
 0.0.0.0 tracking.emilyclarkconsulting.com
 0.0.0.0 tracking.epicgames.com
+0.0.0.0 tracking.exipure.com
 0.0.0.0 tracking.gajmp.com
 0.0.0.0 tracking.hyros.com
 0.0.0.0 tracking.ibxlink.com
@@ -3415,6 +3419,7 @@
 0.0.0.0 trafficz.com
 0.0.0.0 traffiq.com
 0.0.0.0 trafic.ro
+0.0.0.0 traildelsfars.com
 0.0.0.0 traktrafficflow.com
 0.0.0.0 tranquilside.com
 0.0.0.0 travis.bosscasinos.com
@@ -3434,7 +3439,6 @@
 0.0.0.0 trk.bad-tool-tell-doubt.xyz
 0.0.0.0 trk.bc.shutterfly.com
 0.0.0.0 trk.bee-data.com
-0.0.0.0 trk.enemy-adult-scared-there.xyz
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.techtarget.com
 0.0.0.0 trk42.net
