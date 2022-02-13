@@ -2480,10 +2480,6 @@
 # [bksn.se]
 127.0.0.1 us.bksn.se
 
-# [blinkreceipt.com]
-127.0.0.1 licensing.blinkreceipt.com
-127.0.0.1 sdk-resources.blinkreceipt.com
-
 # [blismedia.com]
 127.0.0.1 tr.blismedia.com
 
@@ -3266,9 +3262,6 @@
 # [cootlogix.com]
 127.0.0.1 openrtb.cootlogix.com
 127.0.0.1 prebid.cootlogix.com
-
-# [coralogix.com]
-127.0.0.1 api.coralogix.com
 
 # [cordial.com]
 127.0.0.1 events-stream-svc.usw2.cordial.com
@@ -9907,9 +9900,6 @@
 
 # [teenvogue.com]
 127.0.0.1 sstats.teenvogue.com
-
-# [telematicsct.com]
-127.0.0.1 oneapi.telematicsct.com
 
 # [telematicsdirect.com]
 127.0.0.1 nav.telematicsdirect.com
