@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 29 Mar 2022 18:35:37 GMT
-# entries:        3690
+# last updated:   Sat, 09 Apr 2022 09:41:20 GMT
+# entries:        3684
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 05 Apr 2002 00:00:00
+# start date:    Sun, 14 Apr 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -703,7 +703,6 @@
 0.0.0.0 ads.yourfreedvds.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 ads.yumenetworks.com
-0.0.0.0 ads.zmarsa.com
 0.0.0.0 ads1-adnow.com
 0.0.0.0 ads1.mediacapital.pt
 0.0.0.0 ads1.msn.com
@@ -1034,7 +1033,6 @@
 0.0.0.0 analytics.xelondigital.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 analyticsapi.happypancake.net
-0.0.0.0 analytik.xyz
 0.0.0.0 ancientact.com
 0.0.0.0 aniview.com
 0.0.0.0 annonser.dagbladet.no
@@ -1486,6 +1484,7 @@
 0.0.0.0 conversantmedia.com
 0.0.0.0 conversionbet.com
 0.0.0.0 conversionruler.com
+0.0.0.0 convertbox.com
 0.0.0.0 convertingtraffic.com
 0.0.0.0 convrse.media
 0.0.0.0 cookies.cmpnet.com
@@ -1848,6 +1847,7 @@
 0.0.0.0 freepay.com
 0.0.0.0 freeskreen.com
 0.0.0.0 freestats.com
+0.0.0.0 freestats.tv
 0.0.0.0 freewebcounter.com
 0.0.0.0 freewheel.com
 0.0.0.0 freewheel.tv
@@ -2141,7 +2141,6 @@
 0.0.0.0 kanoodle.com
 0.0.0.0 kargo.com
 0.0.0.0 karonty.com
-0.0.0.0 katie.v4.byetnc.com
 0.0.0.0 kesmatic.com
 0.0.0.0 keymedia.hu
 0.0.0.0 kindads.com
@@ -2452,7 +2451,6 @@
 0.0.0.0 naradxb.com
 0.0.0.0 nastydollars.com
 0.0.0.0 nativeroll.tv
-0.0.0.0 naturalbid.com
 0.0.0.0 navegg.com
 0.0.0.0 navigator.io
 0.0.0.0 navrcholu.cz
@@ -2478,7 +2476,6 @@
 0.0.0.0 netshelter.net
 0.0.0.0 neudesicmediagroup.com
 0.0.0.0 newads.bangbros.com
-0.0.0.0 newbie.com
 0.0.0.0 newnet.qsrch.com
 0.0.0.0 newnudecash.com
 0.0.0.0 newopenx.detik.com
@@ -2560,7 +2557,6 @@
 0.0.0.0 openads.org
 0.0.0.0 openadsnetwork.com
 0.0.0.0 opentag-stats.qubit.com
-0.0.0.0 openx.actvtech.com
 0.0.0.0 openx.angelsgroup.org.uk
 0.0.0.0 openx.cairo360.com
 0.0.0.0 openx.kgmedia.eu
@@ -2938,7 +2934,6 @@
 0.0.0.0 s1-adfly.com
 0.0.0.0 s20dh7e9dh.com
 0.0.0.0 s2d6.com
-0.0.0.0 s2strk.info
 0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 sabio.us
 0.0.0.0 sageanalyst.net
@@ -2963,7 +2958,6 @@
 0.0.0.0 scratch2cash.com
 0.0.0.0 screechingfurniture.com
 0.0.0.0 screechingstove.com
-0.0.0.0 scripte-monster.de
 0.0.0.0 scrubswim.com
 0.0.0.0 sdkfjxjertertry.com
 0.0.0.0 seadform.net
@@ -3080,7 +3074,6 @@
 0.0.0.0 sovrn.com
 0.0.0.0 spacash.com
 0.0.0.0 spaceleadster.com
-0.0.0.0 spannersalesman.com
 0.0.0.0 sparklingshelf.com
 0.0.0.0 sparkstudios.com
 0.0.0.0 speakol.com
@@ -3137,6 +3130,7 @@
 0.0.0.0 stat.xiaomi.com
 0.0.0.0 stat.zenon.net
 0.0.0.0 stat24.com
+0.0.0.0 stat24.meta.ua
 0.0.0.0 statcounter.com
 0.0.0.0 statdynamic.com
 0.0.0.0 static-tracking.klaviyo.com
@@ -3352,7 +3346,6 @@
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track.miro.com
 0.0.0.0 track.segmetrics.io
-0.0.0.0 track.software-codes.com
 0.0.0.0 track.themaccleanup.info
 0.0.0.0 track.ultravpn.com
 0.0.0.0 track.unear.net
@@ -3637,6 +3630,7 @@
 0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 www.dnps.com
 0.0.0.0 www.kaplanindex.com
+0.0.0.0 www.photo-ads.co.uk
 0.0.0.0 www8.glam.com
 0.0.0.0 wwwpromoter.com
 0.0.0.0 x-traceur.com
