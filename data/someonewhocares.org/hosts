@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 02 Nov 2022 at 18:35:23 GMT
+# Last updated: Fri, 25 Nov 2022 at 03:22:17 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2260,6 +2260,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 keepinfit.net
 0.0.0.0 kevlaardiet.fr
 0.0.0.0 keybinary.com
+0.0.0.0 kgvfiivlwyuu.uofgiu
 0.0.0.0 kiabo.fr
 0.0.0.0 kiaby.fr
 0.0.0.0 kiassure.fr
@@ -2500,6 +2501,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 mobpushup.com
 0.0.0.0 moddb.fr
 0.0.0.0 mojn.com
+0.0.0.0 momatyn.store
 0.0.0.0 momentspa.fr
 0.0.0.0 mon-conertisseur.fr
 0.0.0.0 monbureaunumeriques.fr
