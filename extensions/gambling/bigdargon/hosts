@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 07 Aug 2023 22:40 UTC+7
-# Version: 2308072240
-# Blocked: 4,835 domains
+# Last modified: 16 Aug 2023 10:45 UTC+7
+# Version: 2308161045
+# Blocked: 4,862 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -116,6 +116,7 @@
 0.0.0.0 1tamtamvn.com
 0.0.0.0 1xbet88vn.net
 0.0.0.0 1xbetvn.com
+0.0.0.0 20betvnd.com
 0.0.0.0 221vw.com
 0.0.0.0 2222039.com
 0.0.0.0 2277789.com
@@ -142,6 +143,11 @@
 0.0.0.0 33winz.com
 0.0.0.0 3547711.com
 0.0.0.0 3549900.com
+0.0.0.0 360bet1.com
+0.0.0.0 360bet2.com
+0.0.0.0 360bet3.com
+0.0.0.0 360bet4.com
+0.0.0.0 360bet5.com
 0.0.0.0 3650022.com
 0.0.0.0 3676b.com
 0.0.0.0 380099.com
@@ -353,6 +359,7 @@
 0.0.0.0 8live.vip
 0.0.0.0 8livevn.com
 0.0.0.0 8thao8.com
+0.0.0.0 8vnd.club
 0.0.0.0 8x055.com
 0.0.0.0 8xbet.cc
 0.0.0.0 8xbet.com
@@ -723,6 +730,8 @@
 0.0.0.0 bong99.top
 0.0.0.0 bong99.vin
 0.0.0.0 bong99.vip
+0.0.0.0 bongbet1.com
+0.0.0.0 bongbet2.com
 0.0.0.0 bongda.thethaofb88.com
 0.0.0.0 bongda2022.info
 0.0.0.0 bongda80.com
@@ -806,6 +815,7 @@
 0.0.0.0 choibancadoithuong.com
 0.0.0.0 choigiaitri.net
 0.0.0.0 choiiwin79.fun
+0.0.0.0 choilawin.net
 0.0.0.0 choingay88.com
 0.0.0.0 choingayone88.win
 0.0.0.0 choisport.com
@@ -835,6 +845,7 @@
 0.0.0.0 comebetvn3.com
 0.0.0.0 comebetvn9.com
 0.0.0.0 corona999.com
+0.0.0.0 cuoc.choilawin.net
 0.0.0.0 cuoc88.com
 0.0.0.0 cuoc88.net
 0.0.0.0 cuoc8899.com
@@ -1243,6 +1254,7 @@
 0.0.0.0 goal68.net
 0.0.0.0 goal68.top
 0.0.0.0 goal86.top
+0.0.0.0 god55viet.com
 0.0.0.0 gogobolaku.com
 0.0.0.0 gomy188.com
 0.0.0.0 goplayk8.com
@@ -2775,6 +2787,7 @@
 0.0.0.0 kingfun247.net
 0.0.0.0 kkfffddd.com
 0.0.0.0 km.playmanclub.vin
+0.0.0.0 km.thethaob52.org
 0.0.0.0 km1888866b.com
 0.0.0.0 km238b.com
 0.0.0.0 km938b.com
@@ -3449,6 +3462,7 @@
 0.0.0.0 sam86vip.vin
 0.0.0.0 samvip.bet
 0.0.0.0 sasa889.com
+0.0.0.0 sbc2888.live
 0.0.0.0 sbc31.com
 0.0.0.0 sbetviet.com
 0.0.0.0 sbobetfun.org
@@ -3531,6 +3545,7 @@
 0.0.0.0 solbet88.com
 0.0.0.0 sport.five88.biz
 0.0.0.0 sport.soc88.uk
+0.0.0.0 sport9.info
 0.0.0.0 ssv288.com
 0.0.0.0 st00001.com
 0.0.0.0 st666.bid
@@ -3558,6 +3573,7 @@
 0.0.0.0 sun52.bid
 0.0.0.0 sun52.click
 0.0.0.0 sun52.fun
+0.0.0.0 sun52.live
 0.0.0.0 sun52.tv
 0.0.0.0 sun6.win
 0.0.0.0 sun88.online
@@ -3663,15 +3679,19 @@
 0.0.0.0 tainbet.net
 0.0.0.0 taiok88.app
 0.0.0.0 taisum.co
+0.0.0.0 taisun52.live
+0.0.0.0 taiuk88.net
 0.0.0.0 taiv8.com
 0.0.0.0 taiv8.info
 0.0.0.0 taiv8.top
 0.0.0.0 taiwin79.win
+0.0.0.0 taix1.club
 0.0.0.0 taixiusunwin.games
 0.0.0.0 tangl0c.8day66.com
 0.0.0.0 tap88.club
 0.0.0.0 tbab395.com
 0.0.0.0 tbab535.com
+0.0.0.0 tbab595.com
 0.0.0.0 tbab953.com
 0.0.0.0 tbr.games
 0.0.0.0 tdtc.cc
@@ -3713,6 +3733,7 @@
 0.0.0.0 thethao.sin88.biz
 0.0.0.0 thethao188bet.com
 0.0.0.0 thethao80k.com
+0.0.0.0 thethaob52.org
 0.0.0.0 thethaobw.com
 0.0.0.0 thethaodabet.com
 0.0.0.0 thethaofb88.com
@@ -3894,6 +3915,7 @@
 0.0.0.0 vip130130.com
 0.0.0.0 vipbet001.org
 0.0.0.0 vipbet998.com
+0.0.0.0 vipclub.makeup
 0.0.0.0 vipclub.so
 0.0.0.0 viu88.com
 0.0.0.0 viva88.com
@@ -4104,6 +4126,7 @@
 0.0.0.0 wb77.net
 0.0.0.0 wbet58.com
 0.0.0.0 wbet99.net
+0.0.0.0 wc.taiuk88.net
 0.0.0.0 we1win.com
 0.0.0.0 we1win1.com
 0.0.0.0 we1win10.com
@@ -4197,6 +4220,7 @@
 0.0.0.0 www.168kbet.com
 0.0.0.0 www.188thethao.com
 0.0.0.0 www.1tamtam.com
+0.0.0.0 www.20betvnd.com
 0.0.0.0 www.2277789.com
 0.0.0.0 www.228kbet.com
 0.0.0.0 www.22zalo.com
@@ -4211,6 +4235,7 @@
 0.0.0.0 www.33win9.com
 0.0.0.0 www.3547711.com
 0.0.0.0 www.3549900.com
+0.0.0.0 www.360bet1.com
 0.0.0.0 www.3650011.com
 0.0.0.0 www.3650022.com
 0.0.0.0 www.3676b.com
@@ -4255,6 +4280,7 @@
 0.0.0.0 www.8k00000.com
 0.0.0.0 www.8kbet.vn
 0.0.0.0 www.8live.fun
+0.0.0.0 www.8vnd.club
 0.0.0.0 www.8x055.com
 0.0.0.0 www.8xbet.fun
 0.0.0.0 www.8xbet.tv
@@ -4421,6 +4447,7 @@
 0.0.0.0 www.goal68.net
 0.0.0.0 www.goal68.top
 0.0.0.0 www.goal86.top
+0.0.0.0 www.god55viet.com
 0.0.0.0 www.h3bet.com
 0.0.0.0 www.happynb.com
 0.0.0.0 www.hb88032.com
