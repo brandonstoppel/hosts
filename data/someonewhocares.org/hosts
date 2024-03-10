@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 20 Feb 2024 at 18:18:39 GMT
+# Last updated: Thu, 07 Mar 2024 at 22:09:17 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1727,6 +1727,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 audacity.pl
 0.0.0.0 augi.fr
 0.0.0.0 auirbnb.fr
+0.0.0.0 autheasywinformationreq.com
+0.0.0.0 authscotia-signinscotia.com
 0.0.0.0 auto-entrereneur.fr
 0.0.0.0 autohipnose.com
 0.0.0.0 automedik.fr
@@ -1760,6 +1762,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 beboncoin.fr
 0.0.0.0 belambre.fr
 0.0.0.0 benchmarkemail.fr
+0.0.0.0 benefitsgov.info
 0.0.0.0 benefitsorganic.com
 0.0.0.0 bergeresdefrance.fr
 0.0.0.0 besacon.fr
@@ -2064,6 +2067,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 espub.fr
 0.0.0.0 et-1nt3rc.com
 0.0.0.0 et-interac.etransfers1.com
+0.0.0.0 et-mycostcorewards.info
 0.0.0.0 etdeposit-interac.com
 0.0.0.0 etribunaldunet.fr
 0.0.0.0 euriosport.fr
@@ -2094,6 +2098,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 fanniemae.fr
 0.0.0.0 fasola.fr
 0.0.0.0 fclb.fr
+0.0.0.0 fdoverbilled.com
 0.0.0.0 fedex-rescheduel-date.com
 0.0.0.0 fedex-rescheduel-delivery-date.com
 0.0.0.0 fedgroceryrebate.com
@@ -2102,6 +2107,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 festicolor.fr
 0.0.0.0 ffesm.fr
 0.0.0.0 fichier-pdfr.fr
+0.0.0.0 fido-team.com
 0.0.0.0 figato.fr
 0.0.0.0 files.ukr.net.ssl2.in
 0.0.0.0 filezilla.fr
@@ -2164,6 +2170,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 get-answers-fast.com
 0.0.0.0 get24update.link4all.info
 0.0.0.0 getdispadsshop.com
+0.0.0.0 getnexuscard.com
 0.0.0.0 gglcash4u.info	# twitter worm
 0.0.0.0 gifii.fr
 0.0.0.0 gigaonclick.com
@@ -2613,6 +2620,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 nauf.fr
 0.0.0.0 navegador.oi.com.br
 0.0.0.0 navegador.telefonica.com.br
+0.0.0.0 nbtp1.sa.com
 0.0.0.0 ncore.ink
 0.0.0.0 ncorecc.me
 0.0.0.0 ncoremeghivo.net
@@ -2782,6 +2790,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 pro-accesssoires.fr
 0.0.0.0 probikesshop.fr
 0.0.0.0 proclickpacket.com
+0.0.0.0 profileconfirm.info
 0.0.0.0 profilenetflix.com
 0.0.0.0 profilenotice.info
 0.0.0.0 profit-btc.org
@@ -3037,6 +3046,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 traffic-bam.link
 0.0.0.0 traffic.adwitty.com
 0.0.0.0 tranisere.fr
+0.0.0.0 transfer.sh
 0.0.0.0 trauiqce.click
 0.0.0.0 trioadvisor.fr
 0.0.0.0 trk.wizzdeal.trade
@@ -3213,6 +3223,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.freecontent.bid
 0.0.0.0 www.freedailydownload.com
 0.0.0.0 www.froling.bee.pl
+0.0.0.0 www.getnexuscard.com
 0.0.0.0 www.gezinti.com
 0.0.0.0 www.gimp.es
 0.0.0.0 www.globalbuffer.com
@@ -3278,6 +3289,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.ssl2.in
 0.0.0.0 www.stellarium.fr
 0.0.0.0 www.stopphoulplay.com
+0.0.0.0 www.swallowwire.sa.com
 0.0.0.0 www.tanger.com.br
 0.0.0.0 www.tattooshaha.info			# Facebook trojan
 0.0.0.0 www.thedatesafe.com			# Facebook trojan
@@ -8770,7 +8782,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 pro.hit.gemius.pl
 0.0.0.0 pro.letv.com
 0.0.0.0 probusinesshub.com
-0.0.0.0 proclickpacket.com
 0.0.0.0 prod-a.applovin.com
 0.0.0.0 productresearchpanel.com
 0.0.0.0 producttestpanel.com
