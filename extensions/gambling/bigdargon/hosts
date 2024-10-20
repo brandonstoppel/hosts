@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 12 Oct 2024 16:13 UTC+7
-# Version: 2410121613
-# Blocked: 5,852 domains
+# Last modified: 14 Oct 2024 14:18 UTC+7
+# Version: 2410141418
+# Blocked: 5,854 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -156,6 +156,7 @@
 0.0.0.0 23winvn.com
 0.0.0.0 2826.bet
 0.0.0.0 29999y.com
+0.0.0.0 2q.team
 0.0.0.0 2x3x.com
 0.0.0.0 30winvn.com
 0.0.0.0 331725.com
@@ -347,7 +348,6 @@
 0.0.0.0 888b.in
 0.0.0.0 888b.moe
 0.0.0.0 888b.trade
-0.0.0.0 888b.xkiosx.xyz
 0.0.0.0 888betk8.net
 0.0.0.0 888bvn.vip
 0.0.0.0 888k8vn.com
@@ -3180,6 +3180,7 @@
 0.0.0.0 keonhacai-fun88.com
 0.0.0.0 keonhacai3.com
 0.0.0.0 keotot.net
+0.0.0.0 khamphasampham.cc
 0.0.0.0 khuyenmaibw.com
 0.0.0.0 kidslovemartialartsomahane.com
 0.0.0.0 kimsa1116.com
@@ -3363,6 +3364,7 @@
 0.0.0.0 lt992.com
 0.0.0.0 lt995.com
 0.0.0.0 lt997.com
+0.0.0.0 lu88.co
 0.0.0.0 luciu.shop
 0.0.0.0 luck6.com
 0.0.0.0 luck8.com
@@ -4473,6 +4475,7 @@
 0.0.0.0 thangiwin.org
 0.0.0.0 thangtien188bet.com
 0.0.0.0 thangto.one
+0.0.0.0 thanhnien.khamphasampham.cc
 0.0.0.0 thantai68.com
 0.0.0.0 thao88.com
 0.0.0.0 thao888.com
@@ -5770,7 +5773,6 @@
 0.0.0.0 xidach.8day66.com
 0.0.0.0 xingtou888.com
 0.0.0.0 xinloiduocchua.co
-0.0.0.0 xkiosx.xyz
 0.0.0.0 xljs2.com
 0.0.0.0 xn--hi-ji6caa.com
 0.0.0.0 xo68.gamehot88.fun
