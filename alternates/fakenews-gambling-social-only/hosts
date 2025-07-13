@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 26 June 2025 01:49:45 (UTC)
+# Date: 13 July 2025 02:57:55 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, social
-# Number of unique domains: 12,018
+# Number of unique domains: 12,027
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2213,9 +2213,9 @@
 0.0.0.0 yubasuttertimes.com
 0.0.0.0 zombie.news
 # Title: hostsVN Gambling VN
-# Last modified: 25 Jun 2025 10:38 UTC+7
-# Version: 2506251038
-# Blocked: 3.943 domains
+# Last modified: 11 Jul 2025 09:36 UTC+7
+# Version: 2507110936
+# Blocked: 3.952 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2812,6 +2812,7 @@
 0.0.0.0 big88.one
 0.0.0.0 bigboss23.com
 0.0.0.0 bigboss93.com
+0.0.0.0 bin88.com
 0.0.0.0 bj288.com
 0.0.0.0 bj39.com
 0.0.0.0 bj88.estate
@@ -3273,6 +3274,7 @@
 0.0.0.0 fbw.11bet.us
 0.0.0.0 fc1.fcb88d.com
 0.0.0.0 fc2.fcb88d.com
+0.0.0.0 fc88.beauty
 0.0.0.0 fc88.net
 0.0.0.0 fcb8.club
 0.0.0.0 fcb8.com
@@ -3367,6 +3369,7 @@
 0.0.0.0 gamebai.vin
 0.0.0.0 gamebai88.fun
 0.0.0.0 gamebaidoithuong.com.mx
+0.0.0.0 gamebaidoithuong.lat
 0.0.0.0 gamebaidoithuong.quest
 0.0.0.0 gamebaidoithuong6.com
 0.0.0.0 gamebaisumvip.net
@@ -4010,11 +4013,13 @@
 0.0.0.0 l4.lode88.ai
 0.0.0.0 lamgiau99.club
 0.0.0.0 ldp-sum.com
+0.0.0.0 legabet.gay
 0.0.0.0 leo88.com
 0.0.0.0 leo88.fun
 0.0.0.0 leo88.top
 0.0.0.0 lienhe22.com
 0.0.0.0 lienhe44.com
+0.0.0.0 lienminhlega.com
 0.0.0.0 link.vuabai9.com
 0.0.0.0 link123b.com
 0.0.0.0 link789club.click
@@ -4200,6 +4205,7 @@
 0.0.0.0 m.w88ok.com
 0.0.0.0 m.w88yes.com
 0.0.0.0 m1.fm88.com
+0.0.0.0 m1.max88.vip
 0.0.0.0 m1.may88d.com
 0.0.0.0 m1.tin88.bet
 0.0.0.0 m1.vin88.net
@@ -4238,6 +4244,7 @@
 0.0.0.0 mapi.seb121.net
 0.0.0.0 max10.pro
 0.0.0.0 max88.com
+0.0.0.0 max88.vip
 0.0.0.0 may88.club
 0.0.0.0 may88.com
 0.0.0.0 may88.fun
@@ -4732,6 +4739,7 @@
 0.0.0.0 sin88.vip
 0.0.0.0 sin88.win
 0.0.0.0 sin88s.com
+0.0.0.0 sinbet.com
 0.0.0.0 sinbet.vip
 0.0.0.0 site.ko66vip.casino
 0.0.0.0 site.ko66vip.club
@@ -6106,6 +6114,7 @@
 0.0.0.0 xocdia88.click
 0.0.0.0 xocdia88.es
 0.0.0.0 xocdia88.video
+0.0.0.0 xocdiaonline.cool
 0.0.0.0 xoso12345.com
 0.0.0.0 xoso345.com
 0.0.0.0 xoso55.com
