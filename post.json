@@ -2,8 +2,10 @@
   "filters": [
     "allegro",
     "bilet",
-    "-pl",
+    "olx.pl",
     "npost",
-    "blogspot.com"
+    "blogspot.com",
+    ".ipfs.",
+    "c752sa3k9"
   ]
 }
