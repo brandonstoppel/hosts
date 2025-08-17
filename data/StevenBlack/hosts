@@ -1561,7 +1561,6 @@
 0.0.0.0 xn--yotu-1ra.be
 0.0.0.0 xskcjzamlkxwo.gq
 0.0.0.0 beap-bc.yahoo.com
-0.0.0.0 fc.yahoo.com
 0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 adscan.yelabapp.com
 0.0.0.0 fresh.ygto.com
@@ -3052,3 +3051,9 @@
 0.0.0.0 pscontent.playstream.media
 0.0.0.0 cdn.playstream.media
 0.0.0.0 prodcdn.playstream.media
+
+# Added August 13, 2025
+0.0.0.0 zopro.duckdns.org
+
+# Added August 14, 2025
+0.0.0.0 analytics.arz.at
