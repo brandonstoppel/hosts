@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 03 Jun 2026 at 16:23:35 GMT
+# Last updated: Wed, 10 Jun 2026 at 16:00:47 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1865,6 +1865,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 cures.ru.com
 0.0.0.0 customsoftwaredeveloper.com.au
 0.0.0.0 cutesaucepuppy.com
+0.0.0.0 cyber20.com
 0.0.0.0 cyberpanel.fr
 0.0.0.0 cyfe.fr
 0.0.0.0 czr.customzonereview.com
@@ -2840,6 +2841,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 quicksaledeal.su
 0.0.0.0 quirinale.fr
 0.0.0.0 qyh.co.ua
+0.0.0.0 racingfamilyvillage.com
 0.0.0.0 radio42.fr
 0.0.0.0 randki-sex.com
 0.0.0.0 rapid-glade-cde8.asoumare042024.workers.dev
@@ -2907,6 +2909,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 s3-ap-southeast-1-amazonaws.com
 0.0.0.0 s3-ap-southeast-2-amazonaws.com
 0.0.0.0 s4d.in
+0.0.0.0 safes.ru.com
 0.0.0.0 saicmotor.fr
 0.0.0.0 sajour.fr
 0.0.0.0 salebestever.su
@@ -3075,6 +3078,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 telpay.fr
 0.0.0.0 tenispro.fr
 0.0.0.0 terricole.fr
+0.0.0.0 test.gutir.ru
 0.0.0.0 test.ishvara-yoga.com
 0.0.0.0 testbook.fr
 0.0.0.0 textbrokr.fr
@@ -3235,6 +3239,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 waudeesestew.com
 0.0.0.0 wealthsimple-dwvip.com
 0.0.0.0 weapfuh.originalriver-tone.top
+0.0.0.0 web.almestin.ru
 0.0.0.0 webassembly.stream
 0.0.0.0 webatic.fr
 0.0.0.0 webmail.grahachemical.co.id
@@ -3288,6 +3293,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.7zip.fr
 0.0.0.0 www.991abc.com
 0.0.0.0 www.a2uu36g43l.download
+0.0.0.0 www.aagofwi.com
+0.0.0.0 www.aaringtone.com
 0.0.0.0 www.abetterinternet.com
 0.0.0.0 www.abnehmenkabofit.de
 0.0.0.0 www.aconchoe.com
@@ -3307,6 +3314,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.allscrabble.com
 0.0.0.0 www.allstateproteectionplans.com
 0.0.0.0 www.allusermanual.com
+0.0.0.0 www.altunyapimarket.com
+0.0.0.0 www.amerenallieshvac.com
 0.0.0.0 www.americanresortresolutions.com
 0.0.0.0 www.amintart.com
 0.0.0.0 www.amomales.com
@@ -3358,6 +3367,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.bloomifllowers.com
 0.0.0.0 www.blueadvantagearkasas.com
 0.0.0.0 www.bluecollarparanormal.com
+0.0.0.0 www.blueridgecpp.com
 0.0.0.0 www.bmrneswk.com
 0.0.0.0 www.board-ly.com
 0.0.0.0 www.bonuxsarrive.com
@@ -3365,6 +3375,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.borocade.com
 0.0.0.0 www.boysstrongly.living
 0.0.0.0 www.brandsclothingco.com
+0.0.0.0 www.breaksdown.lol
 0.0.0.0 www.breakslavery.com
 0.0.0.0 www.brghterimagelab.com
 0.0.0.0 www.brightqz.com
@@ -3428,6 +3439,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.commuteinfo.com
 0.0.0.0 www.compufixshop.com
 0.0.0.0 www.conclusioncompeting.bond
+0.0.0.0 www.conservativedeeper.garden
 0.0.0.0 www.consultingbyelevate.com
 0.0.0.0 www.continuedlincoln.bond
 0.0.0.0 www.controlpop.com
@@ -3437,6 +3449,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.corvettiortho.com
 0.0.0.0 www.cpatglobal.com
 0.0.0.0 www.cprcar.com
+0.0.0.0 www.cqwallpaper.com
 0.0.0.0 www.creativesaftysupply.com
 0.0.0.0 www.crediainternational.com
 0.0.0.0 www.crowdnestfun.com
@@ -3473,6 +3486,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.dustinjonesgolfacademy.com
 0.0.0.0 www.dymor.cfd
 0.0.0.0 www.dynamictyres.com
+0.0.0.0 www.dzzzsc.com
 0.0.0.0 www.e-transfer-cra.com
 0.0.0.0 www.eaglesfanclub.com
 0.0.0.0 www.eamazondigital.com
@@ -3561,6 +3575,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.goggle.com
 0.0.0.0 www.goldendoodlez.com
 0.0.0.0 www.goldentopics.com
+0.0.0.0 www.gooddeserve.skin
 0.0.0.0 www.googdiy.com
 0.0.0.0 www.gotorobeks.com
 0.0.0.0 www.gparted.fr
@@ -3624,6 +3639,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.jeuxfortuna.com
 0.0.0.0 www.jeuxjackpotcasino.com
 0.0.0.0 www.jhsmiami.com
+0.0.0.0 www.jnhjf.com
 0.0.0.0 www.joinfx.net
 0.0.0.0 www.jovareo.com
 0.0.0.0 www.justdebug.com
@@ -3633,6 +3649,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.karazah.com
 0.0.0.0 www.keepass.com
 0.0.0.0 www.keepass.fr
+0.0.0.0 www.kencorporation.property
 0.0.0.0 www.kesau.com
 0.0.0.0 www.keybinary.com
 0.0.0.0 www.khanomtour.com
@@ -3688,6 +3705,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.megapurchase.com
 0.0.0.0 www.memorieson.com
 0.0.0.0 www.mexdrugs.com
+0.0.0.0 www.mightpays.lol
 0.0.0.0 www.mikras.nl
 0.0.0.0 www.mildpost.com
 0.0.0.0 www.milgaard.com
@@ -3776,6 +3794,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.paviro.cfd
 0.0.0.0 www.pcfixguide.help
 0.0.0.0 www.pdrill.com
+0.0.0.0 www.pdxsenior.com
 0.0.0.0 www.peachysailwv.pro
 0.0.0.0 www.pearlyappss.pro
 0.0.0.0 www.peopleesbancorp.com
@@ -3824,6 +3843,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.qateee.com
 0.0.0.0 www.qbittorrent.com
 0.0.0.0 www.qualitygamer.com
+0.0.0.0 www.quartersnorth.lat
 0.0.0.0 www.quarvions.com
 0.0.0.0 www.quintingwatches.com
 0.0.0.0 www.rackusread.com
@@ -3869,6 +3889,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.sellrubber.com
 0.0.0.0 www.shinilchurch.net	# domain was hacked and had a trojan installed
 0.0.0.0 www.shinyechogz.name
+0.0.0.0 www.shootingeffectively.skin
 0.0.0.0 www.shopvisitors.com
 0.0.0.0 www.sidneyman.com
 0.0.0.0 www.silebah.com
@@ -3912,6 +3933,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.stylistnet.com
 0.0.0.0 www.styxwise.com
 0.0.0.0 www.subwayfast.com
+0.0.0.0 www.suchnasty.skin
 0.0.0.0 www.sumgaydigital.com
 0.0.0.0 www.sunglassesfor.com
 0.0.0.0 www.supereeego.com
@@ -3954,9 +3976,11 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.truecrypt.fr
 0.0.0.0 www.trueshelterju.pro
 0.0.0.0 www.tuningcentar.com
+0.0.0.0 www.tvccpt.com
 0.0.0.0 www.tvrails.com
 0.0.0.0 www.tvshowslist.com
 0.0.0.0 www.ultratemps.com
+0.0.0.0 www.underobviously.garden
 0.0.0.0 www.unetbootin.net
 0.0.0.0 www.unetbootin.org
 0.0.0.0 www.upgradebasic.com
@@ -4010,6 +4034,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.workschat.com
 0.0.0.0 www.wraploans.com
 0.0.0.0 www.wrestlewebnews.com
+0.0.0.0 www.wwwhwgo.com
 0.0.0.0 www.wwwpaipal.com
 0.0.0.0 www.xandermaker.com
 0.0.0.0 www.xdesimbi.com
