@@ -3183,3 +3183,12 @@
 0.0.0.0 proxyjs.bright-sdk.com
 0.0.0.0 clientsdk.bright-sdk.com
 0.0.0.0 clientsdk.brdtnet.com
+
+# Added June 21, 2026
+0.0.0.0 ecoprintworks.vercel.app
+0.0.0.0 karedeutschland.com
+
+# Added June 26, 2026
+0.0.0.0 app.ledger-lives-desktop.io
+0.0.0.0 ledger-lives-desktop.io
+0.0.0.0 apcoa-park.com

@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 18 Jun 2026 at 22:53:09 GMT
+# Last updated: Thu, 25 Jun 2026 at 17:48:06 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1811,6 +1811,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 coldcertainchannel.com
 0.0.0.0 coldpacific.com
 0.0.0.0 colisismo.fr
+0.0.0.0 collagenforwellnessandbeauty.com
 0.0.0.0 collline.fr
 0.0.0.0 coloradosoccerbuddies.acemlna.com
 0.0.0.0 colssimo.fr
@@ -3119,6 +3120,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 timberlande.fr
 0.0.0.0 tip-leisusports.com
 0.0.0.0 tiplanet.fr
+0.0.0.0 tlio.forskningsnytt.info
 0.0.0.0 tnews.day
 0.0.0.0 toknowall.com
 0.0.0.0 tomorrownewstoday.com	# I'm not sure what it does, but it seems to be associated with a phishing attempt on Facebook
@@ -3310,6 +3312,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.abnehmenkabofit.de
 0.0.0.0 www.aconchoe.com
 0.0.0.0 www.activetrap.com
+0.0.0.0 www.adacoustics.com
 0.0.0.0 www.adblock.fr
 0.0.0.0 www.adselector.com
 0.0.0.0 www.adshufffle.com
@@ -3460,6 +3463,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.coolrextintshop.com
 0.0.0.0 www.corlythra.uk
 0.0.0.0 www.corvettiortho.com
+0.0.0.0 www.courtneydowns.com
 0.0.0.0 www.cpatglobal.com
 0.0.0.0 www.cprcar.com
 0.0.0.0 www.cqwallpaper.com
@@ -3726,6 +3730,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.matifi.com
 0.0.0.0 www.meantvictim.lat
 0.0.0.0 www.mediamindpolska.com
+0.0.0.0 www.meecheck.com
 0.0.0.0 www.meeseger.com
 0.0.0.0 www.megapurchase.com
 0.0.0.0 www.memorieson.com
@@ -3737,6 +3742,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.milkycascadeut.site
 0.0.0.0 www.minr.pw
 0.0.0.0 www.miocardite.com
+0.0.0.0 www.mixsorts.garden
 0.0.0.0 www.miziko.com
 0.0.0.0 www.modelsailboat.net
 0.0.0.0 www.moncasinoonline.com
@@ -3771,6 +3777,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.new2crypto.com
 0.0.0.0 www.newshello.com
 0.0.0.0 www.nextfeatures.com
+0.0.0.0 www.nftnavigator.com
 0.0.0.0 www.nigja.com
 0.0.0.0 www.nnews.net
 0.0.0.0 www.nobetsjustfun.com
@@ -3844,6 +3851,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.playroyaluk.com
 0.0.0.0 www.playtactics-hub.com
 0.0.0.0 www.pluseconomy.com
+0.0.0.0 www.ponhap.com
 0.0.0.0 www.portaldimensional.com
 0.0.0.0 www.portlanfleathergoods.com
 0.0.0.0 www.portutopcas.com
@@ -3906,6 +3914,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.rtpbolaslotjago.com
 0.0.0.0 www.russian-sex.com
 0.0.0.0 www.sailpirate.com
+0.0.0.0 www.salliemaebenefits.com
 0.0.0.0 www.salttm.com
 0.0.0.0 www.sandybellxb.site
 0.0.0.0 www.sandybrookyt.name
@@ -3913,6 +3922,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.scrapzoneauto.com
 0.0.0.0 www.securityplusproducts.com
 0.0.0.0 www.securityscan.us
+0.0.0.0 www.seedschaos.garden
 0.0.0.0 www.sellpetrol.com
 0.0.0.0 www.sellrubber.com
 0.0.0.0 www.shinilchurch.net	# domain was hacked and had a trojan installed
@@ -3978,6 +3988,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.tanger.com.br
 0.0.0.0 www.tattnexa.tattoo
 0.0.0.0 www.tattooshaha.info			# Facebook trojan
+0.0.0.0 www.teacherblogit.com
 0.0.0.0 www.teafortune.com
 0.0.0.0 www.techadvisorpro.name
 0.0.0.0 www.technocost.com
@@ -3989,6 +4000,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.thecollectiverd.com
 0.0.0.0 www.thedatesafe.com			# Facebook trojan
 0.0.0.0 www.thefriday.net
+0.0.0.0 www.thegioibaove.com
 0.0.0.0 www.thelaferianews.com
 0.0.0.0 www.themesets.com
 0.0.0.0 www.theprimeindia.com
@@ -4034,6 +4046,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.vipnac.com
 0.0.0.0 www.vkvmotion.com
 0.0.0.0 www.vnailssanclemente.com
+0.0.0.0 www.volvce.com
 0.0.0.0 www.voolat.com
 0.0.0.0 www.walkhelp.net
 0.0.0.0 www.wantsfly.com
