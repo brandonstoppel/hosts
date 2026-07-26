@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 18 July 2026 21:38:18 (UTC)
+# Date: 23 July 2026 23:52:35 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling, social
-# Number of unique domains: 9,606
+# Number of unique domains: 9,633
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -19,9 +19,9 @@
 
 # End of custom host records.
 # Title: hostsVN Gambling VN
-# Last modified: 17 Jul 2026 14:09 UTC+7
-# Version: 2607171409
-# Blocked: 3.720 domains
+# Last modified: 23 Jul 2026 14:11 UTC+7
+# Version: 2607231411
+# Blocked: 3.747 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -134,6 +134,7 @@
 0.0.0.0 388bet.us
 0.0.0.0 388bet.vin
 0.0.0.0 388bet.vip
+0.0.0.0 3bet.bike
 0.0.0.0 3bet.biz
 0.0.0.0 3bet.center
 0.0.0.0 3bet.city
@@ -145,6 +146,7 @@
 0.0.0.0 3bet.sh
 0.0.0.0 3bet.ski
 0.0.0.0 3bet.so
+0.0.0.0 3bet.store
 0.0.0.0 3bet.tech
 0.0.0.0 3bet.vc
 0.0.0.0 3bet.win
@@ -205,8 +207,10 @@
 0.0.0.0 789club.ba
 0.0.0.0 789club.biz
 0.0.0.0 789club.com
+0.0.0.0 789club.cr
 0.0.0.0 789club.gp
 0.0.0.0 789club.ke
+0.0.0.0 789club.mu
 0.0.0.0 789club.org
 0.0.0.0 789club.sx
 0.0.0.0 789club.vg
@@ -519,10 +523,12 @@
 0.0.0.0 ball88.games
 0.0.0.0 ball88.lat
 0.0.0.0 ball88.llc
+0.0.0.0 ball88.love
 0.0.0.0 ball88.ltd
 0.0.0.0 ball88.men
 0.0.0.0 ball88.mobi
 0.0.0.0 ball88.red
+0.0.0.0 ball88.team
 0.0.0.0 ball88.to
 0.0.0.0 ball88.zone
 0.0.0.0 banca.cc
@@ -600,6 +606,7 @@
 0.0.0.0 bntv.bongvip.com
 0.0.0.0 bom52.club
 0.0.0.0 bom88.baby
+0.0.0.0 bom88.casa
 0.0.0.0 bom88.click
 0.0.0.0 bom88.com
 0.0.0.0 bom88.cool
@@ -610,6 +617,7 @@
 0.0.0.0 bom88.pics
 0.0.0.0 bom88.plus
 0.0.0.0 bom88.shop
+0.0.0.0 bom88.team
 0.0.0.0 bong.thethaowin.net
 0.0.0.0 bong88.cam
 0.0.0.0 bong88.com
@@ -861,6 +869,7 @@
 0.0.0.0 dp568.com
 0.0.0.0 dp568bet.com
 0.0.0.0 du88.art
+0.0.0.0 du88.blue
 0.0.0.0 du88.cafe
 0.0.0.0 du88.care
 0.0.0.0 du88.club
@@ -871,6 +880,7 @@
 0.0.0.0 du88.life
 0.0.0.0 du88.pro
 0.0.0.0 du88.sh
+0.0.0.0 du88.tips
 0.0.0.0 dubaivn.vip
 0.0.0.0 duongdenkhungthanh.com
 0.0.0.0 dv88.city
@@ -1106,6 +1116,7 @@
 0.0.0.0 gem88.win
 0.0.0.0 gemwin.cab
 0.0.0.0 gemwin.esq
+0.0.0.0 gemwin.fast
 0.0.0.0 gemwin.fm
 0.0.0.0 gemwin.fyi
 0.0.0.0 gemwin.ink
@@ -1199,6 +1210,7 @@
 0.0.0.0 hb88vn.co
 0.0.0.0 hbet.ac
 0.0.0.0 hbet.club
+0.0.0.0 hbet.cz
 0.0.0.0 hbet.fm
 0.0.0.0 hbet.la
 0.0.0.0 hbet.li
@@ -1208,6 +1220,7 @@
 0.0.0.0 hbet.ph
 0.0.0.0 hbet.pw
 0.0.0.0 hbet.so
+0.0.0.0 hbet.vc
 0.0.0.0 hbet.win
 0.0.0.0 hcm66.com
 0.0.0.0 hd88.tv
@@ -1462,10 +1475,12 @@
 0.0.0.0 k801k.com
 0.0.0.0 k81206.com
 0.0.0.0 k88.art
+0.0.0.0 k88.cam
 0.0.0.0 k88.club
 0.0.0.0 k88.mobi
 0.0.0.0 k88.moe
 0.0.0.0 k88.pro
+0.0.0.0 k88.tel
 0.0.0.0 k88.win
 0.0.0.0 k89bet.com
 0.0.0.0 k8asia79.com
@@ -1715,9 +1730,11 @@
 0.0.0.0 lu88.ec
 0.0.0.0 lu88.gdn
 0.0.0.0 lu88.kim
+0.0.0.0 lu88.lc
 0.0.0.0 lu88.mn
 0.0.0.0 lu88.nz
 0.0.0.0 lu88.pro
+0.0.0.0 lu88.pw
 0.0.0.0 lu88.tw
 0.0.0.0 luck6.com
 0.0.0.0 luck8.com
@@ -1855,6 +1872,7 @@
 0.0.0.0 man79.org
 0.0.0.0 man88.biz
 0.0.0.0 man88.bz
+0.0.0.0 man88.cl
 0.0.0.0 man88.co
 0.0.0.0 man88.la
 0.0.0.0 man88.li
@@ -1866,6 +1884,7 @@
 0.0.0.0 man88.top
 0.0.0.0 man88.vc
 0.0.0.0 man88.vip
+0.0.0.0 man88.vu
 0.0.0.0 man88.win
 0.0.0.0 manclub.live
 0.0.0.0 manclub.us
@@ -2387,6 +2406,7 @@
 0.0.0.0 sk.ball88.ltd
 0.0.0.0 sk.ball88.men
 0.0.0.0 sk.ball88.mobi
+0.0.0.0 sk.ball88.team
 0.0.0.0 sk.ball88.to
 0.0.0.0 sk.ball88.zone
 0.0.0.0 sk.debet.cx
@@ -2418,6 +2438,7 @@
 0.0.0.0 sk.xibet.ec
 0.0.0.0 sk.xibet.fun
 0.0.0.0 sk.xibet.ing
+0.0.0.0 sk.xibet.now
 0.0.0.0 sk.xibet.nz
 0.0.0.0 sk.xibet.vu
 0.0.0.0 sk.zbet.ws
@@ -2764,7 +2785,9 @@
 0.0.0.0 twin5568.com
 0.0.0.0 tx1.vip
 0.0.0.0 tx88.biz
+0.0.0.0 tx88.ch
 0.0.0.0 tx88.com
+0.0.0.0 tx88.download
 0.0.0.0 tx88.fan
 0.0.0.0 tx88.fun
 0.0.0.0 tx88.fyi
@@ -2990,6 +3013,7 @@
 0.0.0.0 vstar79.com
 0.0.0.0 vu88.ac
 0.0.0.0 vu88.com
+0.0.0.0 vu88.cz
 0.0.0.0 vu88.de
 0.0.0.0 vu88.in
 0.0.0.0 vu88.la
@@ -2998,6 +3022,7 @@
 0.0.0.0 vu88.moe
 0.0.0.0 vu88.mx
 0.0.0.0 vu88.net
+0.0.0.0 vu88.ng
 0.0.0.0 vu88.sh
 0.0.0.0 vu88.tv
 0.0.0.0 vu88.ws
@@ -3647,6 +3672,8 @@
 0.0.0.0 xibet.ec
 0.0.0.0 xibet.fun
 0.0.0.0 xibet.ing
+0.0.0.0 xibet.moi
+0.0.0.0 xibet.now
 0.0.0.0 xibet.nz
 0.0.0.0 xibet.vg
 0.0.0.0 xibet.vu
